@@ -1,1 +1,3 @@
+<?php
 import com.qihoo
+?>
